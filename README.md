@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Jingnan Jia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jingnan-Jia&theme=vue&show_icons=true)
+![Jingnan Jia's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Jingnan-Jia&theme=vue&show_icons=true)
 
 
 <!--
